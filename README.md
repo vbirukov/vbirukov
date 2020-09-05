@@ -10,5 +10,5 @@
 - 👯 I’m looking to collaborate on big data project
 - 📫 How to reach me: write an email vbirukov@gmail.com  
 
-- Originally from **Russin** 🇨🇴, now based in **Saint-Pertersburg** RU
+- Originally from **Russia**, now based in **Saint-Pertersburg** RU
 - Sorry for not much here, last years mostly working uder NDA
